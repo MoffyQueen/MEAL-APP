@@ -1,0 +1,18 @@
+.about-section{
+  height: 70vh;
+}
+.home-img{
+  width: 500px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 20px;
+  display: block;
+  margin: 0 auto;
+}
+.banner{
+ background-image: url('./assets/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+}
